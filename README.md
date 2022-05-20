@@ -1,6 +1,10 @@
 # OddClock:TheSecond
 Oddclock is a simple 24 hour digital alarm clock that allows custom alarm sounds.
 
+## Disclaimer:
+This is a re-upload of one of my old google code repositories. Google code repos were taken offline in the mid 2010s and I feel it would be a shame to let the repo disappear completely to the void of the internet. The clock was originally written back in 2010 or so, and updated whenever I saw fit. In other words, this is not a recent repo, and any updates are (probably) not going to happen. The source code is there if you have an old enough version of GM.
+
+## Original readme:
 Currently the project is in beta.
 
 Download. Unzip to wherever you want it, but make sure you have write access to the area. Launch. Everything is pretty well explained in the clock interface(I mean.. it's a clock.. How hard can it be:P).
